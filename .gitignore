@@ -148,3 +148,9 @@ venv8/
 quickstart.py
 states.json
 logs
+# my additions
+.gitignore
+config.yaml
+My_stuff
+qa.csv
+Kelvin Njenga(Curriculum Vitae).pdf
